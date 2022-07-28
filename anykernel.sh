@@ -5,7 +5,7 @@
 # begin properties
 script="$0"
 properties() { '
-kernel.string=Luuvy kernel from Zamrud Khatulistiwa
+kernel.string=Auguri 12 kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
